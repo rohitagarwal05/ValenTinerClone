@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Lottie from 'react-lottie';
 import { Link } from 'react-router-dom';
-import bg from './assets/images/page-1_bg.png';
+import bg from './assets/images/JNT06047.JPG';
 import heartAnimation from './assets/animations/floating_hearts.json';
 import './styles/frontpage.css';
 
