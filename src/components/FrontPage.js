@@ -53,16 +53,19 @@ export default function FrontPage() {
             <div className="heart opacity-75">
                 <div className="text absolute -top-4 z-10 w-72 p-3 h-auto flex flex-col rotate-45 select-none">
                     <p className='w-fit h-fit text-font text-center custom-color-text'>
-                        In the midst of life's tumultuous sea,
+                        Every moment we've shared has been a treasure,
                     </p>
                     <p className='w-fit h-fit text-font text-center custom-color-text'>
-                        Amidst chaos and uncertainty,
+                        filling my life with joy and love.
                     </p>
                     <p className='w-fit h-fit text-font text-center custom-color-text'>
-                        I found my anchor, my guiding light,
+                        Your presence has turned ordinary days into extraordinary memories,
                     </p>
                     <p className='w-fit h-fit text-font text-center custom-color-text'>
-                        In your love, serene and bright.
+                        and your love has been the light guiding me through every step.
+                    </p>
+                    <p className='w-fit h-fit text-font text-center custom-color-text'>
+                        With you, life has been a beautiful journey, and I cherish every second of it.
                     </p>
                 </div>
                 <div className="autor text-author absolute bottom-8 left-10 rotate-45">
