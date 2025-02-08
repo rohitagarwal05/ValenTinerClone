@@ -89,7 +89,7 @@ export default function Ask(props) {
     } else if (noCount === 1) {
       document.querySelector('.cry-animation-1').classList.add('hidden');
       document.querySelector('.cry-animation-2').classList.remove('hidden');
-      setAskText("Please be my Valentine?")
+      setAskText("Please be my Forever?")
       setEmojiAsk('😭')
     }
     else {
@@ -99,7 +99,7 @@ export default function Ask(props) {
       document.querySelector('.convey').classList.add('hidden');
       document.querySelector('.ask').classList.remove('sm:text-4xl', 'text-2xl');
       document.querySelector('.ask').classList.add('text-3xl', 'sm:text-6xl');
-      setAskText("Bye You don't deserve me .")
+      setAskText("Suno Go Retry, No Masti")
       setEmojiAsk('');
       document.querySelector('.No').classList.add('translate-y-56', 'sm:translate-y-[22.8rem]', 'pointer-events-none');
     }
