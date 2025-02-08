@@ -79,7 +79,7 @@ export default function FrontPage() {
 
                 <Link to='/envelope'><button id='message-button' className="hidden transition-all duration-200 button button-text shadow-[5px_5px_0px_0px_rgba(109,40,217)] active:translate-x-1 active:translate-y-1 active:shadow-none mt-4 lg:text-xl box-shado w-fit h-fit bg-gradient-to-r from-[#FFECD2] to-[#FCB69F] py-4 px-5 rounded-md">
                     <div className="w-fit h-fit text-transparent bg-clip-text bg-gradient-to-r from-[#C33764] to-[#1D2671] font-bold">
-                        <span className='select-none'>See Message</span>
+                        <span className='select-none'>Click Here to See What it is</span>
                     </div>
                 </button>
                 </Link>
