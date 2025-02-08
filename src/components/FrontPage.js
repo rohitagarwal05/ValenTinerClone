@@ -53,19 +53,16 @@ export default function FrontPage() {
             <div className="heart opacity-75">
                 <div className="text absolute -top-4 z-10 w-72 p-3 h-auto flex flex-col rotate-45 select-none">
                     <p className='w-fit h-fit text-font text-center custom-color-text'>
-                        Every moment we've shared has been a treasure,
+                        In the midst of life's tumultuous sea,
                     </p>
                     <p className='w-fit h-fit text-font text-center custom-color-text'>
-                        filling my life with joy and love.
+                        Amidst chaos and uncertainty,
                     </p>
                     <p className='w-fit h-fit text-font text-center custom-color-text'>
-                        Your presence has turned ordinary days into extraordinary memories,
+                        I found my anchor, my guiding light,
                     </p>
                     <p className='w-fit h-fit text-font text-center custom-color-text'>
-                        and your love has been the light guiding me through every step.
-                    </p>
-                    <p className='w-fit h-fit text-font text-center custom-color-text'>
-                        With you, life has been a beautiful journey, and I cherish every second of it.
+                        In your love, serene and bright.
                     </p>
                 </div>
                 <div className="autor text-author absolute bottom-8 left-10 rotate-45">
@@ -79,7 +76,7 @@ export default function FrontPage() {
 
                 <Link to='/envelope'><button id='message-button' className="hidden transition-all duration-200 button button-text shadow-[5px_5px_0px_0px_rgba(109,40,217)] active:translate-x-1 active:translate-y-1 active:shadow-none mt-4 lg:text-xl box-shado w-fit h-fit bg-gradient-to-r from-[#FFECD2] to-[#FCB69F] py-4 px-5 rounded-md">
                     <div className="w-fit h-fit text-transparent bg-clip-text bg-gradient-to-r from-[#C33764] to-[#1D2671] font-bold">
-                        <span className='select-none'>Click Here to See What it is</span>
+                        <span className='select-none'>See Message</span>
                     </div>
                 </button>
                 </Link>
