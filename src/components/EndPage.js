@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import ReactPlayer from 'react-player';
 import NoteBook from './NoteBook';
 import './styles/endpage.css'
-import songVideo from './assets/videos/song.mp4';
+import songVideo from './assets/videos/rohit_new.mp4';
 
 
 export default function Note(props) {
